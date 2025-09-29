@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  padding: 20px;
+}
+.container {
+  text-align: center;
+}
+a {
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+a:hover {
+  background: #0056b3;
+}
